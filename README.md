@@ -4,11 +4,9 @@ Python and C developer focused on writing clean, well-structured, and well-docum
 
 ## Projects
 
-- **ConvUnit** — A Python package for unit conversion supporting interactive mode, CLI, and API. Built with modular architecture and data-driven design.  
-  [View on GitHub](https://github.com/XanD0K/ConvUnit)
+- **[ConvUnit](https://github.com/XanD0K/ConvUnit)** — A Python package for unit conversion supporting interactive mode, CLI, and API. Built with modular architecture and data-driven design.  
 
-- **Archivist** — A feature-rich directory and file manager in C with backup/recovery, logging, dry-run mode, and advanced filtering capabilities.  
-  [View on GitHub](https://github.com/XanD0K/archivist)
+- **[Archivist](https://github.com/XanD0K/archivist)** — A feature-rich directory and file manager in C with backup/recovery, logging, dry-run mode, and advanced filtering capabilities.  
 
 ## Skills & Approach
 
