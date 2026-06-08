@@ -1,16 +1,27 @@
-## Hi there 👋
+# Alexandre Duarte Ferrari
 
-<!--
-**XanD0K/XanD0K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python and C developer focused on writing clean, well-structured, and well-documented code. I value modularity, clarity, and building tools that are easy to understand and maintain.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ConvUnit** — A Python package for unit conversion supporting interactive mode, CLI, and API. Built with modular architecture and data-driven design.  
+  [View on GitHub](https://github.com/XanD0K/ConvUnit)
+
+- **Archivist** — A feature-rich directory and file manager in C with backup/recovery, logging, dry-run mode, and advanced filtering capabilities.  
+  [View on GitHub](https://github.com/XanD0K/archivist)
+
+## Skills & Approach
+
+- **Python**: Package development, CLI tools, API design, modular code, and documentation
+- **C**: Systems programming, file handling, structured code, error handling, and usability-focused CLI tools
+- I prioritize readable code and clear design decisions
+
+## Currently working on
+
+- Developing web applications with Flask and Django
+- Taking on freelance projects
+- Open to junior developer opportunities
+
+## Contact
+
+- LinkedIn: [[Coloque seu link do LinkedIn aqui]](https://www.linkedin.com/in/alexandre-duarte-ferrari/)
