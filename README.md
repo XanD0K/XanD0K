@@ -24,4 +24,4 @@ Python and C developer focused on writing clean, well-structured, and well-docum
 
 ## Contact
 
-- LinkedIn: [[Coloque seu link do LinkedIn aqui]](https://www.linkedin.com/in/alexandre-duarte-ferrari/)
+- LinkedIn: https://www.linkedin.com/in/alexandre-duarte-ferrari/
