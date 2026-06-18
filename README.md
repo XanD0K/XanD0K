@@ -18,7 +18,7 @@ Python and C developer focused on writing clean, well-structured, and well-docum
 
 - Developing web applications with Flask and Django
 - Taking on freelance projects
-- Open to junior developer opportunities
+- Open to trainee/junior developer opportunities
 
 ## Contact
 
